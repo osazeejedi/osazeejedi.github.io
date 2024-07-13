@@ -106,7 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany<br></br>
+            Designed &amp; Built by Britt<br></br>
             Revised by Osazee Jedidiah O.
           </div>
 
